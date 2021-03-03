@@ -1,6 +1,6 @@
-import './App.css';
+import React, { useState } from 'react';
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -9,4 +9,3 @@ function App() {
   );
 }
 
-export default App;
